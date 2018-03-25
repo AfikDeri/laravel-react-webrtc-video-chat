@@ -1,7 +1,7 @@
 ## Video Chat Application Example
 
 #### [@WeCodeTutorials](https://twitter.com/WeCodeTutorials)
-[![Logo](https://thumb.ibb.co/iegMZn/Logo.png)](https://www.youtube.com/channel/UCj9VatwdukZjNOnIKcpWcsA)
+[![Logo](https://cdn.pbrd.co/images/HdwCut8.png)](https://www.youtube.com/channel/UCj9VatwdukZjNOnIKcpWcsA)
 
 #### WebRTC Project
 [![Logo](https://webrtc.org/assets/images/webrtc-logo-horiz-retro-243x40.png)](https://webrtc.org/)
